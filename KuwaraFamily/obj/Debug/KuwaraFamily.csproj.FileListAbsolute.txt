@@ -1,0 +1,6 @@
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\obj\Debug\KuwaraFamily.csprojAssemblyReference.cache
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\bin\Debug\KuwaraFamily.exe.config
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\bin\Debug\KuwaraFamily.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\bin\Debug\KuwaraFamily.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\obj\Debug\KuwaraFamily.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 7\KuwaraFamily\KuwaraFamily\obj\Debug\KuwaraFamily.pdb
